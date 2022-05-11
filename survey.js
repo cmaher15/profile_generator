@@ -30,11 +30,3 @@ rl.question("What's your name? Nicknames are also totally acceptable! 😀 ", (a
     });
   }));
 });
-// rl.question("What is your favourite movie or tv show?", (answer) => {
-//   console.log(`Great choice, ${answer} is a good one!`);
-//   rl.close();
-// });
-// rl.question("What's an activity that you enjoy?", (answer) => {
-//   console.log(`Awesome! Nice to meet you,: ${answer}!!`);
-//   rl.close();
-// });
